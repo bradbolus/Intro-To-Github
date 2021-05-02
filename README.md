@@ -1,4 +1,4 @@
-# Coder_School_Starter_Project
+# Intro to Github
 An intro into the inner workings of Github
 
 
